@@ -21,7 +21,7 @@ This is a Login form with Protected Routes
 
 There are 2 routes:
 1. /(Public) --> for Login
-2. /dashboard (Private)--> To get into dashboard after only login . You cannot go to dashboard by changing URL without login, This id how protected routes are different from normal routes
+2. /dashboard (Private)--> To get into dashboard after only login . You cannot go to dashboard by changing URL without login, This is how protected routes are different from normal routes
 
 
 
